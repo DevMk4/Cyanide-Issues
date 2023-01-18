@@ -1,14 +1,14 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an idea/improvement for this project
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Is your feature request related to an existing feature? Please describe.**
+A clear and concise description of what the problem is. Ex. "This interface could be better if...", "Being able to do this... would be much better".
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
